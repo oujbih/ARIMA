@@ -3,3 +3,8 @@
 # Model ARIMA of forecasting stock market
 
 
+TODO :
+1 bluid model for s&p 500 
+2 and cac 40 also 
+
+
