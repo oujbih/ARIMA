@@ -4,7 +4,8 @@
 
 
 TODO :
-1 bluid model for s&p 500 
-2 and cac 40 also 
+1- bluid model for s&p 500 
+2- and cac 40 also 
+3- implementing ANN  
 
 
